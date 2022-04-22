@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eval1</string>
+    <string name="softnet">SoftNet</string>
+    <string name="login">Login</string>
+    <string name="admin">admin</string>
+    <string name="password">password</string>
+
+</resources>
